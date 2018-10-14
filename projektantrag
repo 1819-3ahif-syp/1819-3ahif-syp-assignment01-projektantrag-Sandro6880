@@ -1,0 +1,19 @@
+Name :  Deutsch-Korrektur
+
+Beschreibung : Ein Programm, dass in Java-Skript geschrieben ist, kontrolliert eine deutschen
+Text der eingegeben wurde nach den Deutschen Rechtschreib- und Grammatikregeln. Bevor man den Text
+reinschreiben würde bzw. reinkopieren muss man die Art des Textes bestimmen. Zbs: Erörterung.
+So hat das Programm eine leichtere Zeit die Fehler zu entdecken und Verbesserungsvorschläge zu geben.
+
+Zweck: Hat man einen Text geschrieben ist er, auch mit Korrektur von zbs: Word, sehr oft Falsch.
+Deshalb würde ich es für gut finden ein Programm zu schreiben die nach den Regeln den Text Kontrolliert.
+
+Ziel: Leichtere Bildung im Schreiben.
+
+Ergebnis: Verbessert den Standart der Texte der Schüler/innen. Weniger Zeit zum Verbessern der Texte.
+Die Profesoren sind Stressfreier und möglicher weise gut gelaunt wegen den Fehlerlosen Aufsätzen.
+
+Projektleiter: Sandro Tadic
+Geplanter Start/Ende:
+
+Start: 5.November 2018 / Ende: 3.Juni 2019
